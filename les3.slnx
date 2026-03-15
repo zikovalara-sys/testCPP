@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="les3/les3.vcxproj" />
+  <Project Path="les3/les3.vcxproj" Id="a93e993f-20fe-479b-a55f-3639fdec694e" />
 </Solution>
