@@ -21,6 +21,19 @@ int main()
 	{
 		cout << i << "\t";
 	}
+	cout << "\n";
+	// зроблю програму коли користувач вводить числа
+	int begin, end;
+	cout << "Вкажіть початок діапазону \n";
+	cin >> begin;
+	cout << "Вкажіть кінець діапазону \n";
+	cin >> end;
+	for (int i = begin; i <= end; i++)
+	{
+		if (i % 2 == 0)
+			cout << i << "\t";
+	}
+	cout << "\n Дякуємo";
 	return 0;
 
 
